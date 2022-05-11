@@ -5,7 +5,8 @@ This project is has a example of how used React and TailiwindCss
 ## (!) Important Info (!) 
  Don't forget to run `npm install` to install all dependencies before running this project
 
-... 
+---
+
 ## Available Scripts
 
 In the project directory, you can run:
